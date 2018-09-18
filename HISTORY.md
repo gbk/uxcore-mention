@@ -1,7 +1,7 @@
 # History
 
 ---
-## 0.4.4
+## 0.4.5
 `CHANGED` support js style export
 
 ## 0.4.3
